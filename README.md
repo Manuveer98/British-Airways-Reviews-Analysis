@@ -1,32 +1,55 @@
-# British-Airways-Reviews-Analysis
-This Tableau dashboard presents an in-depth analysis of customer reviews for British Airways from March 2016 to October 2023. The dashboard provides an interactive interface for exploring customer satisfaction levels based on various criteria, including the airplane model, traveler type, seat type, and time period. Employers can use this project to evaluate my ability to derive insights from large datasets and present findings in a clear and actionable manner using Tableau.
+# ✈️ British Airways Reviews Analysis – Tableau Dashboard
 
-Key Insights:
-Overall Rating Trends: Over the years, the overall rating fluctuates, with noticeable dips in recent months. The highest satisfaction was observed in 2017.
-Performance by Aircraft: Certain models like the Boeing 747 received the highest ratings, particularly in terms of seat comfort and overall experience.
-Traveler Segmentation: Business travelers generally rate their experiences higher than leisure travelers, especially when flying in Business Class.
-Geographical Trends: The majority of reviews came from passengers in North America, with notable differences in ratings between countries.
-Service Metrics: Cabin staff service and seat comfort consistently rate higher than entertainment and food service, highlighting potential areas of improvement for the airline.
+## **Motivation**
 
+This project analyzes over 7 years of customer reviews for British Airways (March 2016 – October 2023) to evaluate patterns in customer satisfaction. The goal is to showcase my ability to extract actionable insights from complex datasets and present them in a structured, interactive format for business decision-making.
 
-Features of the Dashboard:
-Time Slider: Filter the data by month and year to analyze trends over time.
-Traveler and Seat Filters: Narrow down results based on the type of traveler and seat class.
-Geographical Map: Visualize overall ratings by country to see how satisfaction varies across regions.
-Aircraft Performance: Compare aircraft models in terms of their average ratings and the number of reviews.
+---
 
+## **Insights**
 
-Technical Skills Demonstrated:
-Data Visualization: Created interactive and visually appealing charts, bar graphs, and maps to present key findings.
-Filtering and Segmentation: Implemented filters to allow for granular analysis based on multiple dimensions.
-Analytical Storytelling: Presented insights in a cohesive narrative that can be used for data-driven decision-making.
+Key takeaways from the analysis:
 
+* **Overall Rating Trends**: Ratings fluctuate over the years, peaking in 2017, with a notable decline in recent months.
+* **Aircraft Performance**: Aircraft like the Boeing 747 consistently receive high marks, especially in seat comfort and overall experience.
+* **Traveler Segments**: Business travelers rate their experiences more positively than leisure passengers, especially in Business Class.
+* **Geographical Differences**: North America contributed the most reviews, with country-level differences in satisfaction levels.
+* **Service Dimensions**: Cabin staff and seat comfort are consistently rated higher than entertainment and food services—suggesting key improvement areas.
 
-Tools Used:
-Tableau Public: For building interactive dashboards and visualizations.
-Data Preparation: Cleaned and structured data to ensure consistency in analysis across multiple variables.
+---
 
+## **Narrative**
 
-Future Enhancements:
-Incorporate more granular metrics like ticket pricing and loyalty program membership to deepen the analysis.
-Add sentiment analysis on text reviews for more context on why certain ratings were given.
+The dashboard guides users through a data-driven story of customer experiences on British Airways flights. From overall satisfaction to seat-specific comfort, each visual is designed to help stakeholders quickly uncover where the airline excels and where it can improve. The narrative combines historical trends, segment analysis, and aircraft-specific data to deliver a full picture of customer sentiment.
+
+---
+
+## **Design**
+
+The dashboard includes:
+
+* **Time Slider**: Explore trends by month and year.
+* **Traveler & Seat Filters**: Drill down by traveler type and seat class.
+* **Geographical Map**: Visualize ratings by country.
+* **Aircraft Comparison**: View performance and review volume by aircraft model.
+
+Visuals are clean, interactive, and optimized for both exploration and executive-level summary.
+
+---
+
+**Scope & Tools**
+
+* **Tools Used**: Tableau Public
+* **Data Preparation**: Cleaned, structured, and normalized review data to support analysis across dimensions like time, traveler type, aircraft, and geography.
+* **Techniques**:
+
+  * Interactive filters and controls
+  * Bar charts, line charts, and maps
+  * Analytical storytelling through dashboard design
+
+---
+
+**Future Enhancements**
+
+* Integrate **ticket pricing** and **frequent flyer data** for deeper behavioral segmentation.
+* Add **sentiment analysis** on text reviews for richer insight into passenger feedback.
