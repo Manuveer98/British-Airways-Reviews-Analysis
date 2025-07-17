@@ -1,4 +1,4 @@
-# ✈️ British Airways Reviews Analysis – Tableau Dashboard
+# British Airways Reviews Analysis – Tableau Dashboard
 
 ## **Motivation**
 
@@ -51,7 +51,7 @@ Visuals are clean, interactive, and optimized for both exploration and executive
 
 ---
 
-## ✈️ Recommendations for British Airways (Based on Review Analysis)
+## Recommendations for British Airways (Based on Review Analysis)
 
 ---
 
