@@ -46,10 +46,44 @@ Visuals are clean, interactive, and optimized for both exploration and executive
   * Interactive filters and controls
   * Bar charts, line charts, and maps
   * Analytical storytelling through dashboard design
+ 
+  * Absolutely — here are **precise and actionable recommendations** for your **British Airways Tableau project**, based on the insights you shared:
 
 ---
 
-**Future Enhancements**
+## ✈️ Recommendations for British Airways (Based on Review Analysis)
 
-* Integrate **ticket pricing** and **frequent flyer data** for deeper behavioral segmentation.
-* Add **sentiment analysis** on text reviews for richer insight into passenger feedback.
+---
+
+### 1. **Improve Entertainment & Food Services**
+
+* **Why**: These consistently scored lower than seat comfort and cabin staff.
+* **Action**: Refresh in-flight menu options and upgrade screen content variety or UX.
+
+---
+
+### 2. **Focus on Leisure Travelers in Economy Class**
+
+* **Why**: They gave noticeably lower ratings than business travelers.
+* **Action**: Improve seat spacing, boarding experience, or offer loyalty perks to this segment.
+
+---
+
+### 3. **Leverage High Ratings of Boeing 747**
+
+* **Why**: This aircraft model received the best reviews for comfort and experience.
+* **Action**: Use these planes more on long-haul routes and in marketing material to promote premium experience.
+
+---
+
+### 4. **Address Regional Rating Gaps**
+
+* **Why**: North American passengers dominate reviews but show varying satisfaction across countries.
+* **Action**: Localize service (e.g., food, language, entertainment options) for key North American markets like the U.S. vs. Canada.
+
+---
+
+### 5. **Monitor Recent Rating Declines**
+
+* **Why**: Notable dip in overall satisfaction in the most recent months.
+* **Action**: Investigate operational or service changes post-2017 and retrain staff or update processes accordingly.
